@@ -1,0 +1,8 @@
+D:\UST\Day9\indexer\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+D:\UST\Day9\indexer\indexer\obj\Debug\indexer.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day9\indexer\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+D:\UST\Day9\indexer\indexer\bin\Debug\indexer.exe.config
+D:\UST\Day9\indexer\indexer\bin\Debug\indexer.exe
+D:\UST\Day9\indexer\indexer\bin\Debug\indexer.pdb
+D:\UST\Day9\indexer\indexer\obj\Debug\indexer.exe
+D:\UST\Day9\indexer\indexer\obj\Debug\indexer.pdb
